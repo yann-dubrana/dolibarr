@@ -1,0 +1,3 @@
+[submodule "modules/soustotal"]
+	path = modules/soustotal
+	url = https://github.com/mikaelcarlavan/soustotal.git

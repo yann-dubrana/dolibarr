@@ -215,3 +215,5 @@ ConfirmDeleteDispatchedLines = Annuler également tous les mouvements de stock d
 SupplierOrderDeletion = Commande fournisseur %s Suppression
 OrderStatusMakeOperationForbidden = Statut de commande interdit pour cette opération.
 CreateRemoteOrder=Créer commande distante
+PDFEpicteteDescription=Un modèle d'accusé de réception de commande complet
+PdfOrderAcknowledgmentTitle=Accusé de réception

@@ -138,3 +138,5 @@ TypeContact_shipping_external_DELIVERY=Contact client pour la livraison
 CloseShipment=Expédition fermée
 ConfirmCloseShipment=Confirmer la clôture de l'expédition
 SHIPPING_SELL_EAT_BY_DATE_PRE_SELECT_EARLIEST=Présélectionnez le lot/Numéro de série avec la date limite de consommation/vente la plus proche lors de la création d'une expédition
+DeliveryNote=Bon de livraison
+DocumentModelRaie=Modèle Raie A5
